@@ -1,0 +1,501 @@
+employee_id,grade,department,gender,nationality,years_experience,performance_rating,monthly_salary,market_midpoint,band_minimum,band_maximum,compa_ratio,pay_position,market_percentile,flight_risk_pay,last_salary_increase_pct,recommended_action,cost_to_minimum
+2001,G2,Sales,Female,Non-Emirati,22,4,12600.0,12000,9600.0,14400.0,105.0,Within Band,64.0,0,14.8,No Action Required,0.0
+2002,G6,Operations,Female,Non-Emirati,13,4,64100.0,50000,40000.0,60000.0,128.2,Above Band,97.0,0,3.5,Grade Progression Review,0.0
+2003,G4,Legal,Male,Emirati,15,3,28600.0,25000,20000.0,30000.0,114.4,Within Band,82.0,0,14.1,No Action Required,0.0
+2004,G3,HR,Female,Non-Emirati,12,4,16400.0,18000,14400.0,21600.0,91.1,Within Band,24.0,0,0.6,No Action Required,0.0
+2005,G1,IT,Female,Emirati,22,3,6900.0,8000,6400.0,9600.0,86.2,Within Band,24.0,1,6.7,No Action Required,0.0
+2006,G1,Operations,Male,Non-Emirati,21,5,8600.0,8000,6400.0,9600.0,107.5,Within Band,74.0,0,1.1,No Action Required,0.0
+2007,G1,HR,Female,Non-Emirati,22,5,6400.0,8000,6400.0,9600.0,80.0,Within Band,15.0,1,10.9,"Priority Increase — Low Compa, High Performer",0.0
+2008,G5,HR,Male,Non-Emirati,11,3,44600.0,35000,28000.0,42000.0,127.4,Above Band,92.0,0,9.1,Salary Freeze — Above Band,0.0
+2009,G3,Operations,Male,Non-Emirati,7,4,21200.0,18000,14400.0,21600.0,117.8,Within Band,89.0,0,10.6,No Action Required,0.0
+2010,G4,Sales,Female,Non-Emirati,5,4,23200.0,25000,20000.0,30000.0,92.8,Within Band,32.0,0,5.6,No Action Required,0.0
+2011,G1,HR,Male,Non-Emirati,17,3,5900.0,8000,6400.0,9600.0,73.8,Below Band,4.0,1,5.5,"Immediate Review — Below Band, Performing",500.0
+2012,G6,Sales,Female,Non-Emirati,24,3,60200.0,50000,40000.0,60000.0,120.4,Above Band,87.0,0,0.7,Salary Freeze — Above Band,0.0
+2013,G4,Operations,Female,Emirati,20,3,24600.0,25000,20000.0,30000.0,98.4,Within Band,45.0,0,5.2,No Action Required,0.0
+2014,G2,Sales,Male,Non-Emirati,9,4,14200.0,12000,9600.0,14400.0,118.3,Within Band,89.0,0,13.9,No Action Required,0.0
+2015,G1,Finance,Male,Non-Emirati,14,5,6100.0,8000,6400.0,9600.0,76.2,Below Band,9.0,1,5.7,"Immediate Review — Below Band, Performing",300.0
+2016,G1,IT,Male,Non-Emirati,12,4,7300.0,8000,6400.0,9600.0,91.2,Within Band,36.0,0,12.5,No Action Required,0.0
+2017,G2,HR,Male,Emirati,6,4,12000.0,12000,9600.0,14400.0,100.0,Within Band,47.0,0,12.6,No Action Required,0.0
+2018,G3,Legal,Male,Emirati,17,4,18100.0,18000,14400.0,21600.0,100.6,Within Band,49.0,0,5.6,No Action Required,0.0
+2019,G2,IT,Male,Emirati,19,4,11200.0,12000,9600.0,14400.0,93.3,Within Band,27.0,0,9.5,No Action Required,0.0
+2020,G2,Sales,Male,Emirati,19,4,13100.0,12000,9600.0,14400.0,109.2,Within Band,76.0,0,1.4,No Action Required,0.0
+2021,G3,HR,Male,Non-Emirati,16,3,15100.0,18000,14400.0,21600.0,83.9,Within Band,11.0,1,1.6,No Action Required,0.0
+2022,G1,Sales,Male,Non-Emirati,12,3,7800.0,8000,6400.0,9600.0,97.5,Within Band,53.0,0,0.7,No Action Required,0.0
+2023,G2,Finance,Female,Non-Emirati,12,4,12200.0,12000,9600.0,14400.0,101.7,Within Band,56.00000000000001,0,8.7,No Action Required,0.0
+2024,G2,Operations,Female,Emirati,20,1,12900.0,12000,9600.0,14400.0,107.5,Within Band,70.0,0,6.4,No Action Required,0.0
+2025,G3,HR,Male,Emirati,6,4,19900.0,18000,14400.0,21600.0,110.6,Within Band,76.0,0,8.2,No Action Required,0.0
+2026,G4,Finance,Male,Emirati,23,2,20800.0,25000,20000.0,30000.0,83.2,Within Band,13.0,1,7.8,No Action Required,0.0
+2027,G1,Finance,Female,Emirati,4,3,6200.0,8000,6400.0,9600.0,77.5,Below Band,11.0,1,5.3,"Immediate Review — Below Band, Performing",200.0
+2028,G3,HR,Female,Emirati,6,4,21400.0,18000,14400.0,21600.0,118.9,Within Band,90.0,0,10.2,No Action Required,0.0
+2029,G3,Sales,Female,Emirati,11,3,18900.0,18000,14400.0,21600.0,105.0,Within Band,61.0,0,11.4,No Action Required,0.0
+2030,G1,Legal,Female,Non-Emirati,1,3,7100.0,8000,6400.0,9600.0,88.8,Within Band,30.0,1,0.2,No Action Required,0.0
+2031,G3,Finance,Male,Non-Emirati,24,3,22200.0,18000,14400.0,21600.0,123.3,Above Band,93.0,0,3.1,Salary Freeze — Above Band,0.0
+2032,G1,IT,Male,Non-Emirati,23,4,8100.0,8000,6400.0,9600.0,101.2,Within Band,61.0,0,10.7,No Action Required,0.0
+2033,G1,Finance,Male,Non-Emirati,15,1,9400.0,8000,6400.0,9600.0,117.5,Within Band,92.0,0,5.8,"Salary Freeze — High Compa, Low Performer",0.0
+2034,G5,Legal,Male,Non-Emirati,11,5,35400.0,35000,28000.0,42000.0,101.1,Within Band,56.99999999999999,0,9.9,No Action Required,0.0
+2035,G6,Sales,Male,Emirati,19,2,65500.0,50000,40000.0,60000.0,131.0,Above Band,100.0,0,5.2,Salary Freeze — Above Band,0.0
+2036,G4,Sales,Male,Emirati,18,5,31600.0,25000,20000.0,30000.0,126.4,Above Band,94.0,0,5.9,Grade Progression Review,0.0
+2037,G2,IT,Male,Non-Emirati,17,5,11600.0,12000,9600.0,14400.0,96.7,Within Band,36.0,0,2.4,No Action Required,0.0
+2038,G1,Finance,Female,Emirati,19,3,9200.0,8000,6400.0,9600.0,115.0,Within Band,84.0,0,3.9,No Action Required,0.0
+2039,G3,Sales,Female,Non-Emirati,21,3,19700.0,18000,14400.0,21600.0,109.4,Within Band,72.0,0,9.1,No Action Required,0.0
+2040,G2,Legal,Male,Non-Emirati,14,3,14500.0,12000,9600.0,14400.0,120.8,Above Band,91.0,0,6.5,Salary Freeze — Above Band,0.0
+2041,G1,HR,Female,Non-Emirati,18,4,6800.0,8000,6400.0,9600.0,85.0,Within Band,21.0,1,11.6,"Priority Increase — Low Compa, High Performer",0.0
+2042,G3,Operations,Male,Non-Emirati,19,2,19900.0,18000,14400.0,21600.0,110.6,Within Band,76.0,0,12.8,"Salary Freeze — High Compa, Low Performer",0.0
+2043,G1,Operations,Female,Non-Emirati,15,1,9300.0,8000,6400.0,9600.0,116.3,Within Band,89.0,0,8.1,"Salary Freeze — High Compa, Low Performer",0.0
+2044,G5,Operations,Male,Emirati,15,2,25800.0,35000,28000.0,42000.0,73.7,Below Band,4.0,1,11.4,"Monitor — Below Band, Low Performance",2200.0
+2045,G2,Finance,Female,Emirati,4,3,9900.0,12000,9600.0,14400.0,82.5,Within Band,8.0,1,4.6,No Action Required,0.0
+2046,G3,IT,Female,Non-Emirati,7,3,12600.0,18000,14400.0,21600.0,70.0,Below Band,2.0,1,6.2,"Immediate Review — Below Band, Performing",1800.0
+2047,G2,Sales,Male,Non-Emirati,13,4,11500.0,12000,9600.0,14400.0,95.8,Within Band,34.0,0,10.7,No Action Required,0.0
+2048,G3,HR,Male,Emirati,3,5,19900.0,18000,14400.0,21600.0,110.6,Within Band,76.0,0,5.8,No Action Required,0.0
+2049,G3,Legal,Male,Non-Emirati,16,3,22100.0,18000,14400.0,21600.0,122.8,Above Band,92.0,0,8.8,Salary Freeze — Above Band,0.0
+2050,G1,HR,Male,Non-Emirati,9,3,8100.0,8000,6400.0,9600.0,101.2,Within Band,61.0,0,2.8,No Action Required,0.0
+2051,G6,Legal,Male,Non-Emirati,8,3,62200.0,50000,40000.0,60000.0,124.4,Above Band,90.0,0,9.0,Salary Freeze — Above Band,0.0
+2052,G4,Finance,Female,Non-Emirati,20,4,19800.0,25000,20000.0,30000.0,79.2,Below Band,7.000000000000001,1,12.9,"Immediate Review — Below Band, Performing",200.0
+2053,G5,Operations,Male,Non-Emirati,13,5,26100.0,35000,28000.0,42000.0,74.6,Below Band,6.0,1,13.0,"Immediate Review — Below Band, Performing",1900.0
+2054,G5,Finance,Female,Non-Emirati,17,4,34700.0,35000,28000.0,42000.0,99.1,Within Band,49.0,0,10.9,No Action Required,0.0
+2055,G3,IT,Female,Non-Emirati,17,5,19000.0,18000,14400.0,21600.0,105.6,Within Band,63.0,0,11.2,No Action Required,0.0
+2056,G5,IT,Male,Emirati,17,1,34800.0,35000,28000.0,42000.0,99.4,Within Band,51.0,0,8.4,No Action Required,0.0
+2057,G1,Legal,Male,Non-Emirati,1,4,5600.0,8000,6400.0,9600.0,70.0,Below Band,1.0,1,8.8,"Immediate Review — Below Band, Performing",800.0
+2058,G1,Sales,Male,Emirati,8,4,7900.0,8000,6400.0,9600.0,98.8,Within Band,56.99999999999999,0,2.0,No Action Required,0.0
+2059,G1,Sales,Female,Non-Emirati,19,3,6400.0,8000,6400.0,9600.0,80.0,Within Band,15.0,1,6.7,No Action Required,0.0
+2060,G2,Legal,Male,Non-Emirati,6,5,13200.0,12000,9600.0,14400.0,110.0,Within Band,79.0,0,6.8,No Action Required,0.0
+2061,G2,IT,Female,Non-Emirati,3,2,12700.0,12000,9600.0,14400.0,105.8,Within Band,67.0,0,14.4,No Action Required,0.0
+2062,G2,IT,Female,Non-Emirati,5,4,10300.0,12000,9600.0,14400.0,85.8,Within Band,14.000000000000002,1,6.5,"Priority Increase — Low Compa, High Performer",0.0
+2063,G4,IT,Male,Emirati,13,3,23100.0,25000,20000.0,30000.0,92.4,Within Band,30.0,0,8.2,No Action Required,0.0
+2064,G2,Finance,Male,Emirati,15,3,10100.0,12000,9600.0,14400.0,84.2,Within Band,11.0,1,8.0,No Action Required,0.0
+2065,G2,IT,Female,Non-Emirati,14,4,11900.0,12000,9600.0,14400.0,99.2,Within Band,42.0,0,9.6,No Action Required,0.0
+2066,G3,HR,Female,Non-Emirati,23,3,20600.0,18000,14400.0,21600.0,114.4,Within Band,85.0,0,11.2,No Action Required,0.0
+2067,G1,Operations,Male,Emirati,16,3,6800.0,8000,6400.0,9600.0,85.0,Within Band,21.0,1,3.4,No Action Required,0.0
+2068,G4,IT,Male,Non-Emirati,18,3,26900.0,25000,20000.0,30000.0,107.6,Within Band,65.0,0,7.9,No Action Required,0.0
+2069,G1,Legal,Female,Non-Emirati,22,4,7400.0,8000,6400.0,9600.0,92.5,Within Band,42.0,0,12.4,No Action Required,0.0
+2070,G6,Operations,Male,Non-Emirati,22,2,44100.0,50000,40000.0,60000.0,88.2,Within Band,23.0,1,6.9,No Action Required,0.0
+2071,G4,Finance,Female,Emirati,11,3,24600.0,25000,20000.0,30000.0,98.4,Within Band,45.0,0,4.2,No Action Required,0.0
+2072,G1,Legal,Male,Non-Emirati,3,5,6800.0,8000,6400.0,9600.0,85.0,Within Band,21.0,1,9.8,"Priority Increase — Low Compa, High Performer",0.0
+2073,G1,Operations,Male,Non-Emirati,22,4,7300.0,8000,6400.0,9600.0,91.2,Within Band,36.0,0,12.4,No Action Required,0.0
+2074,G4,Legal,Female,Non-Emirati,10,3,20500.0,25000,20000.0,30000.0,82.0,Within Band,11.0,1,0.9,No Action Required,0.0
+2075,G4,Finance,Male,Non-Emirati,10,4,32400.0,25000,20000.0,30000.0,129.6,Above Band,97.0,0,11.7,Grade Progression Review,0.0
+2076,G4,HR,Male,Non-Emirati,21,4,25100.0,25000,20000.0,30000.0,100.4,Within Band,51.0,0,12.3,No Action Required,0.0
+2077,G4,Finance,Male,Emirati,16,4,22400.0,25000,20000.0,30000.0,89.6,Within Band,21.0,1,6.9,"Priority Increase — Low Compa, High Performer",0.0
+2078,G1,Finance,Male,Non-Emirati,12,3,8300.0,8000,6400.0,9600.0,103.8,Within Band,67.0,0,14.7,No Action Required,0.0
+2079,G2,Legal,Female,Non-Emirati,2,3,11800.0,12000,9600.0,14400.0,98.3,Within Band,39.0,0,11.8,No Action Required,0.0
+2080,G1,Sales,Male,Emirati,9,3,7700.0,8000,6400.0,9600.0,96.2,Within Band,50.0,0,11.6,No Action Required,0.0
+2081,G5,IT,Male,Non-Emirati,24,3,38200.0,35000,28000.0,42000.0,109.1,Within Band,72.0,0,11.2,No Action Required,0.0
+2082,G3,IT,Female,Emirati,3,3,20000.0,18000,14400.0,21600.0,111.1,Within Band,80.0,0,2.3,No Action Required,0.0
+2083,G2,HR,Female,Emirati,24,1,11000.0,12000,9600.0,14400.0,91.7,Within Band,23.0,0,3.3,No Action Required,0.0
+2084,G1,HR,Male,Non-Emirati,15,4,7300.0,8000,6400.0,9600.0,91.2,Within Band,36.0,0,7.0,No Action Required,0.0
+2085,G2,IT,Male,Non-Emirati,3,3,11500.0,12000,9600.0,14400.0,95.8,Within Band,34.0,0,4.0,No Action Required,0.0
+2086,G2,Sales,Female,Non-Emirati,19,3,8400.0,12000,9600.0,14400.0,70.0,Below Band,3.0,1,6.2,"Immediate Review — Below Band, Performing",1200.0
+2087,G4,IT,Female,Emirati,18,4,19300.0,25000,20000.0,30000.0,77.2,Below Band,4.0,1,13.3,"Immediate Review — Below Band, Performing",700.0
+2088,G3,Sales,Male,Non-Emirati,8,3,21700.0,18000,14400.0,21600.0,120.6,Above Band,91.0,0,12.4,Salary Freeze — Above Band,0.0
+2089,G5,HR,Male,Emirati,17,2,43600.0,35000,28000.0,42000.0,124.6,Above Band,87.0,0,9.5,Salary Freeze — Above Band,0.0
+2090,G3,Operations,Male,Non-Emirati,8,4,17300.0,18000,14400.0,21600.0,96.1,Within Band,41.0,0,12.9,No Action Required,0.0
+2091,G1,Legal,Female,Non-Emirati,7,1,8700.0,8000,6400.0,9600.0,108.7,Within Band,77.0,0,11.8,No Action Required,0.0
+2092,G4,HR,Female,Non-Emirati,7,4,26200.0,25000,20000.0,30000.0,104.8,Within Band,61.0,0,6.4,No Action Required,0.0
+2093,G4,HR,Female,Non-Emirati,3,4,35000.0,25000,20000.0,30000.0,140.0,Above Band,100.0,0,3.0,Grade Progression Review,0.0
+2094,G3,Finance,Female,Non-Emirati,1,3,21000.0,18000,14400.0,21600.0,116.7,Within Band,87.0,0,7.7,No Action Required,0.0
+2095,G4,Finance,Female,Non-Emirati,4,4,24500.0,25000,20000.0,30000.0,98.0,Within Band,42.0,0,11.0,No Action Required,0.0
+2096,G3,Finance,Male,Non-Emirati,5,3,15400.0,18000,14400.0,21600.0,85.6,Within Band,15.0,1,6.5,No Action Required,0.0
+2097,G3,Legal,Male,Non-Emirati,1,3,13700.0,18000,14400.0,21600.0,76.1,Below Band,3.0,1,10.0,"Immediate Review — Below Band, Performing",700.0
+2098,G2,Finance,Male,Non-Emirati,15,1,12400.0,12000,9600.0,14400.0,103.3,Within Band,60.0,0,1.4,No Action Required,0.0
+2099,G1,Sales,Male,Emirati,5,3,7100.0,8000,6400.0,9600.0,88.8,Within Band,30.0,1,11.2,No Action Required,0.0
+2100,G1,IT,Female,Emirati,13,5,6300.0,8000,6400.0,9600.0,78.8,Below Band,13.0,1,12.2,"Immediate Review — Below Band, Performing",100.0
+2101,G1,Operations,Male,Non-Emirati,8,3,7200.0,8000,6400.0,9600.0,90.0,Within Band,32.0,0,10.6,No Action Required,0.0
+2102,G3,HR,Male,Emirati,8,3,15100.0,18000,14400.0,21600.0,83.9,Within Band,11.0,1,14.5,No Action Required,0.0
+2103,G2,Sales,Male,Emirati,5,3,15000.0,12000,9600.0,14400.0,125.0,Above Band,97.0,0,12.4,Salary Freeze — Above Band,0.0
+2104,G3,Operations,Male,Non-Emirati,9,3,20400.0,18000,14400.0,21600.0,113.3,Within Band,83.0,0,13.5,No Action Required,0.0
+2105,G5,Sales,Male,Non-Emirati,1,2,35000.0,35000,28000.0,42000.0,100.0,Within Band,53.0,0,14.0,No Action Required,0.0
+2106,G2,Sales,Male,Non-Emirati,4,3,14700.0,12000,9600.0,14400.0,122.5,Above Band,95.0,0,12.0,Salary Freeze — Above Band,0.0
+2107,G2,HR,Female,Non-Emirati,3,4,12100.0,12000,9600.0,14400.0,100.8,Within Band,51.0,0,10.1,No Action Required,0.0
+2108,G4,IT,Male,Non-Emirati,2,3,21800.0,25000,20000.0,30000.0,87.2,Within Band,15.0,1,0.1,No Action Required,0.0
+2109,G2,Finance,Female,Emirati,8,3,14700.0,12000,9600.0,14400.0,122.5,Above Band,95.0,0,7.0,Salary Freeze — Above Band,0.0
+2110,G1,Legal,Male,Non-Emirati,23,1,8600.0,8000,6400.0,9600.0,107.5,Within Band,74.0,0,8.6,No Action Required,0.0
+2111,G2,IT,Male,Emirati,9,3,10100.0,12000,9600.0,14400.0,84.2,Within Band,11.0,1,4.6,No Action Required,0.0
+2112,G1,Legal,Male,Non-Emirati,2,4,7800.0,8000,6400.0,9600.0,97.5,Within Band,53.0,0,4.8,No Action Required,0.0
+2113,G5,HR,Male,Non-Emirati,14,2,30400.0,35000,28000.0,42000.0,86.9,Within Band,28.000000000000004,1,14.4,No Action Required,0.0
+2114,G4,HR,Female,Non-Emirati,14,2,19800.0,25000,20000.0,30000.0,79.2,Below Band,7.000000000000001,1,13.4,"Monitor — Below Band, Low Performance",200.0
+2115,G3,HR,Male,Non-Emirati,4,3,20500.0,18000,14400.0,21600.0,113.9,Within Band,84.0,0,12.7,No Action Required,0.0
+2116,G5,Operations,Male,Non-Emirati,6,4,45000.0,35000,28000.0,42000.0,128.6,Above Band,96.0,0,6.1,Grade Progression Review,0.0
+2117,G4,Legal,Female,Emirati,11,4,19800.0,25000,20000.0,30000.0,79.2,Below Band,7.000000000000001,1,0.2,"Immediate Review — Below Band, Performing",200.0
+2118,G1,IT,Male,Non-Emirati,3,3,8700.0,8000,6400.0,9600.0,108.7,Within Band,77.0,0,1.2,No Action Required,0.0
+2119,G5,IT,Male,Emirati,8,4,31600.0,35000,28000.0,42000.0,90.3,Within Band,38.0,0,4.7,No Action Required,0.0
+2120,G3,Sales,Female,Emirati,3,4,16700.0,18000,14400.0,21600.0,92.8,Within Band,31.0,0,0.2,No Action Required,0.0
+2121,G4,Sales,Female,Emirati,14,4,22800.0,25000,20000.0,30000.0,91.2,Within Band,24.0,0,0.3,No Action Required,0.0
+2122,G5,Sales,Male,Non-Emirati,13,4,30500.0,35000,28000.0,42000.0,87.1,Within Band,32.0,1,13.7,"Priority Increase — Low Compa, High Performer",0.0
+2123,G2,HR,Female,Non-Emirati,13,3,12100.0,12000,9600.0,14400.0,100.8,Within Band,51.0,0,10.6,No Action Required,0.0
+2124,G1,IT,Female,Emirati,2,3,7000.0,8000,6400.0,9600.0,87.5,Within Band,27.0,1,4.6,No Action Required,0.0
+2125,G2,Legal,Male,Non-Emirati,13,2,12500.0,12000,9600.0,14400.0,104.2,Within Band,62.0,0,2.0,No Action Required,0.0
+2126,G2,HR,Female,Non-Emirati,19,3,11900.0,12000,9600.0,14400.0,99.2,Within Band,42.0,0,7.7,No Action Required,0.0
+2127,G4,Operations,Male,Emirati,6,5,24100.0,25000,20000.0,30000.0,96.4,Within Band,39.0,0,0.1,No Action Required,0.0
+2128,G5,Sales,Male,Non-Emirati,16,3,30200.0,35000,28000.0,42000.0,86.3,Within Band,25.0,1,14.1,No Action Required,0.0
+2129,G1,HR,Male,Non-Emirati,2,3,7300.0,8000,6400.0,9600.0,91.2,Within Band,36.0,0,6.2,No Action Required,0.0
+2130,G3,HR,Male,Non-Emirati,8,4,20000.0,18000,14400.0,21600.0,111.1,Within Band,80.0,0,6.0,No Action Required,0.0
+2131,G2,Operations,Female,Non-Emirati,17,3,12900.0,12000,9600.0,14400.0,107.5,Within Band,70.0,0,5.9,No Action Required,0.0
+2132,G2,Finance,Male,Emirati,23,2,10200.0,12000,9600.0,14400.0,85.0,Within Band,13.0,1,1.0,No Action Required,0.0
+2133,G1,IT,Female,Non-Emirati,2,3,8100.0,8000,6400.0,9600.0,101.2,Within Band,61.0,0,9.6,No Action Required,0.0
+2134,G2,Legal,Female,Non-Emirati,10,3,13400.0,12000,9600.0,14400.0,111.7,Within Band,81.0,0,11.0,No Action Required,0.0
+2135,G5,Finance,Male,Non-Emirati,16,4,26200.0,35000,28000.0,42000.0,74.9,Below Band,8.0,1,10.1,"Immediate Review — Below Band, Performing",1800.0
+2136,G2,Sales,Female,Emirati,6,1,13000.0,12000,9600.0,14400.0,108.3,Within Band,72.0,0,2.1,No Action Required,0.0
+2137,G3,HR,Male,Non-Emirati,2,3,16200.0,18000,14400.0,21600.0,90.0,Within Band,20.0,0,8.7,No Action Required,0.0
+2138,G4,Operations,Male,Non-Emirati,2,3,27100.0,25000,20000.0,30000.0,108.4,Within Band,67.0,0,8.5,No Action Required,0.0
+2139,G2,Operations,Female,Emirati,13,3,10600.0,12000,9600.0,14400.0,88.3,Within Band,17.0,1,13.0,No Action Required,0.0
+2140,G6,IT,Male,Non-Emirati,24,4,36500.0,50000,40000.0,60000.0,73.0,Below Band,3.0,1,5.7,"Immediate Review — Below Band, Performing",3500.0
+2141,G6,Finance,Male,Non-Emirati,15,3,37800.0,50000,40000.0,60000.0,75.6,Below Band,7.000000000000001,1,5.6,"Immediate Review — Below Band, Performing",2200.0
+2142,G2,IT,Male,Non-Emirati,2,3,12100.0,12000,9600.0,14400.0,100.8,Within Band,51.0,0,9.3,No Action Required,0.0
+2143,G3,HR,Male,Non-Emirati,7,5,18700.0,18000,14400.0,21600.0,103.9,Within Band,56.99999999999999,0,9.5,No Action Required,0.0
+2144,G2,IT,Male,Non-Emirati,3,4,10400.0,12000,9600.0,14400.0,86.7,Within Band,16.0,1,7.0,"Priority Increase — Low Compa, High Performer",0.0
+2145,G2,Legal,Male,Non-Emirati,8,2,13100.0,12000,9600.0,14400.0,109.2,Within Band,76.0,0,6.6,No Action Required,0.0
+2146,G1,Operations,Female,Non-Emirati,23,3,6000.0,8000,6400.0,9600.0,75.0,Below Band,7.000000000000001,1,7.4,"Immediate Review — Below Band, Performing",400.0
+2147,G3,Operations,Male,Emirati,14,4,17800.0,18000,14400.0,21600.0,98.9,Within Band,46.0,0,12.9,No Action Required,0.0
+2148,G3,Sales,Male,Non-Emirati,24,4,14700.0,18000,14400.0,21600.0,81.7,Within Band,9.0,1,6.9,"Priority Increase — Low Compa, High Performer",0.0
+2149,G1,Sales,Male,Non-Emirati,23,2,7200.0,8000,6400.0,9600.0,90.0,Within Band,32.0,0,14.1,No Action Required,0.0
+2150,G2,HR,Male,Non-Emirati,22,5,12100.0,12000,9600.0,14400.0,100.8,Within Band,51.0,0,7.6,No Action Required,0.0
+2151,G5,Legal,Female,Non-Emirati,7,3,30500.0,35000,28000.0,42000.0,87.1,Within Band,32.0,1,14.2,No Action Required,0.0
+2152,G2,Finance,Female,Emirati,21,2,11300.0,12000,9600.0,14400.0,94.2,Within Band,30.0,0,12.5,No Action Required,0.0
+2153,G1,IT,Female,Non-Emirati,7,2,9200.0,8000,6400.0,9600.0,115.0,Within Band,84.0,0,5.4,"Salary Freeze — High Compa, Low Performer",0.0
+2154,G3,HR,Male,Non-Emirati,1,2,16400.0,18000,14400.0,21600.0,91.1,Within Band,24.0,0,13.0,No Action Required,0.0
+2155,G6,Sales,Male,Non-Emirati,17,4,56300.0,50000,40000.0,60000.0,112.6,Within Band,80.0,0,1.7,No Action Required,0.0
+2156,G2,IT,Male,Non-Emirati,9,2,10000.0,12000,9600.0,14400.0,83.3,Within Band,10.0,1,13.9,No Action Required,0.0
+2157,G3,Sales,Female,Non-Emirati,21,2,19400.0,18000,14400.0,21600.0,107.8,Within Band,71.0,0,9.5,No Action Required,0.0
+2158,G4,IT,Male,Emirati,13,4,30400.0,25000,20000.0,30000.0,121.6,Above Band,90.0,0,0.8,Grade Progression Review,0.0
+2159,G2,Finance,Male,Non-Emirati,21,3,8400.0,12000,9600.0,14400.0,70.0,Below Band,3.0,1,9.7,"Immediate Review — Below Band, Performing",1200.0
+2160,G4,HR,Female,Emirati,19,1,22000.0,25000,20000.0,30000.0,88.0,Within Band,17.0,1,14.6,No Action Required,0.0
+2161,G2,IT,Male,Emirati,21,2,13000.0,12000,9600.0,14400.0,108.3,Within Band,72.0,0,1.0,No Action Required,0.0
+2162,G3,Legal,Male,Non-Emirati,19,2,17500.0,18000,14400.0,21600.0,97.2,Within Band,44.0,0,8.3,No Action Required,0.0
+2163,G3,Operations,Male,Emirati,22,3,19000.0,18000,14400.0,21600.0,105.6,Within Band,63.0,0,11.2,No Action Required,0.0
+2164,G3,Legal,Female,Non-Emirati,17,4,16400.0,18000,14400.0,21600.0,91.1,Within Band,24.0,0,12.2,No Action Required,0.0
+2165,G1,Legal,Male,Non-Emirati,23,2,8100.0,8000,6400.0,9600.0,101.2,Within Band,61.0,0,6.2,No Action Required,0.0
+2166,G4,Operations,Female,Non-Emirati,23,2,24400.0,25000,20000.0,30000.0,97.6,Within Band,41.0,0,3.1,No Action Required,0.0
+2167,G2,Legal,Female,Emirati,10,4,14100.0,12000,9600.0,14400.0,117.5,Within Band,88.0,0,0.6,No Action Required,0.0
+2168,G1,IT,Male,Non-Emirati,10,4,8300.0,8000,6400.0,9600.0,103.8,Within Band,67.0,0,8.7,No Action Required,0.0
+2169,G1,IT,Female,Emirati,4,3,8400.0,8000,6400.0,9600.0,105.0,Within Band,71.0,0,6.8,No Action Required,0.0
+2170,G3,IT,Male,Non-Emirati,8,3,16900.0,18000,14400.0,21600.0,93.9,Within Band,36.0,0,14.2,No Action Required,0.0
+2171,G3,Operations,Male,Non-Emirati,22,3,16700.0,18000,14400.0,21600.0,92.8,Within Band,31.0,0,0.9,No Action Required,0.0
+2172,G1,Legal,Female,Non-Emirati,20,3,7500.0,8000,6400.0,9600.0,93.8,Within Band,45.0,0,10.3,No Action Required,0.0
+2173,G3,Operations,Female,Non-Emirati,20,3,19100.0,18000,14400.0,21600.0,106.1,Within Band,66.0,0,0.4,No Action Required,0.0
+2174,G2,IT,Female,Non-Emirati,18,3,11200.0,12000,9600.0,14400.0,93.3,Within Band,27.0,0,2.6,No Action Required,0.0
+2175,G3,Legal,Male,Emirati,14,5,18800.0,18000,14400.0,21600.0,104.4,Within Band,57.99999999999999,0,6.8,No Action Required,0.0
+2176,G1,Legal,Male,Non-Emirati,18,1,10500.0,8000,6400.0,9600.0,131.2,Above Band,98.0,0,6.8,Salary Freeze — Above Band,0.0
+2177,G3,Sales,Male,Non-Emirati,14,4,20400.0,18000,14400.0,21600.0,113.3,Within Band,83.0,0,10.3,No Action Required,0.0
+2178,G2,Sales,Male,Non-Emirati,20,2,11400.0,12000,9600.0,14400.0,95.0,Within Band,32.0,0,13.7,No Action Required,0.0
+2179,G5,Finance,Male,Emirati,21,4,41300.0,35000,28000.0,42000.0,118.0,Within Band,83.0,0,9.6,No Action Required,0.0
+2180,G1,HR,Male,Emirati,24,4,7500.0,8000,6400.0,9600.0,93.8,Within Band,45.0,0,14.3,No Action Required,0.0
+2181,G2,Sales,Male,Emirati,15,4,8400.0,12000,9600.0,14400.0,70.0,Below Band,3.0,1,13.2,"Immediate Review — Below Band, Performing",1200.0
+2182,G1,Operations,Male,Non-Emirati,22,2,6800.0,8000,6400.0,9600.0,85.0,Within Band,21.0,1,8.8,No Action Required,0.0
+2183,G5,Sales,Male,Non-Emirati,4,3,25200.0,35000,28000.0,42000.0,72.0,Below Band,2.0,1,12.5,"Immediate Review — Below Band, Performing",2800.0
+2184,G5,Finance,Male,Non-Emirati,13,3,33200.0,35000,28000.0,42000.0,94.9,Within Band,40.0,0,9.6,No Action Required,0.0
+2185,G2,Legal,Female,Non-Emirati,23,4,12000.0,12000,9600.0,14400.0,100.0,Within Band,47.0,0,1.2,No Action Required,0.0
+2186,G3,Finance,Male,Emirati,8,3,22500.0,18000,14400.0,21600.0,125.0,Above Band,95.0,0,11.1,Salary Freeze — Above Band,0.0
+2187,G4,Legal,Female,Non-Emirati,18,3,26200.0,25000,20000.0,30000.0,104.8,Within Band,61.0,0,1.4,No Action Required,0.0
+2188,G3,Legal,Female,Non-Emirati,12,3,17400.0,18000,14400.0,21600.0,96.7,Within Band,43.0,0,8.9,No Action Required,0.0
+2189,G3,HR,Male,Non-Emirati,23,3,20200.0,18000,14400.0,21600.0,112.2,Within Band,81.0,0,10.5,No Action Required,0.0
+2190,G2,Sales,Female,Non-Emirati,14,3,8400.0,12000,9600.0,14400.0,70.0,Below Band,3.0,1,1.0,"Immediate Review — Below Band, Performing",1200.0
+2191,G1,Operations,Male,Non-Emirati,2,2,8300.0,8000,6400.0,9600.0,103.8,Within Band,67.0,0,3.5,No Action Required,0.0
+2192,G5,Operations,Male,Non-Emirati,18,5,39000.0,35000,28000.0,42000.0,111.4,Within Band,75.0,0,13.7,No Action Required,0.0
+2193,G5,IT,Male,Emirati,24,4,27200.0,35000,28000.0,42000.0,77.7,Below Band,11.0,1,9.2,"Immediate Review — Below Band, Performing",800.0
+2194,G3,Legal,Male,Emirati,2,5,21100.0,18000,14400.0,21600.0,117.2,Within Band,88.0,0,3.7,No Action Required,0.0
+2195,G2,Operations,Male,Non-Emirati,11,3,12600.0,12000,9600.0,14400.0,105.0,Within Band,64.0,0,10.4,No Action Required,0.0
+2196,G2,HR,Male,Emirati,9,4,11300.0,12000,9600.0,14400.0,94.2,Within Band,30.0,0,9.0,No Action Required,0.0
+2197,G4,Legal,Female,Non-Emirati,12,4,27400.0,25000,20000.0,30000.0,109.6,Within Band,73.0,0,7.5,No Action Required,0.0
+2198,G5,HR,Female,Emirati,17,4,46900.0,35000,28000.0,42000.0,134.0,Above Band,98.0,0,14.6,Grade Progression Review,0.0
+2199,G5,Operations,Male,Non-Emirati,15,4,36000.0,35000,28000.0,42000.0,102.9,Within Band,60.0,0,10.3,No Action Required,0.0
+2200,G4,Operations,Female,Emirati,17,3,25900.0,25000,20000.0,30000.0,103.6,Within Band,59.0,0,5.6,No Action Required,0.0
+2201,G3,IT,Male,Non-Emirati,18,4,16800.0,18000,14400.0,21600.0,93.3,Within Band,34.0,0,12.0,No Action Required,0.0
+2202,G1,Operations,Male,Non-Emirati,22,3,7000.0,8000,6400.0,9600.0,87.5,Within Band,27.0,1,13.3,No Action Required,0.0
+2203,G1,Legal,Female,Emirati,6,2,9000.0,8000,6400.0,9600.0,112.5,Within Band,80.0,0,1.9,"Salary Freeze — High Compa, Low Performer",0.0
+2204,G5,Legal,Male,Emirati,17,3,30500.0,35000,28000.0,42000.0,87.1,Within Band,32.0,1,3.0,No Action Required,0.0
+2205,G3,Legal,Male,Non-Emirati,23,5,18200.0,18000,14400.0,21600.0,101.1,Within Band,51.0,0,3.2,No Action Required,0.0
+2206,G1,IT,Male,Non-Emirati,24,4,7400.0,8000,6400.0,9600.0,92.5,Within Band,42.0,0,10.4,No Action Required,0.0
+2207,G1,IT,Male,Emirati,18,5,8600.0,8000,6400.0,9600.0,107.5,Within Band,74.0,0,9.0,No Action Required,0.0
+2208,G3,Operations,Female,Non-Emirati,8,4,18900.0,18000,14400.0,21600.0,105.0,Within Band,61.0,0,9.3,No Action Required,0.0
+2209,G1,Finance,Male,Emirati,9,3,9200.0,8000,6400.0,9600.0,115.0,Within Band,84.0,0,14.1,No Action Required,0.0
+2210,G1,Finance,Female,Non-Emirati,6,2,7400.0,8000,6400.0,9600.0,92.5,Within Band,42.0,0,11.6,No Action Required,0.0
+2211,G3,IT,Male,Non-Emirati,5,2,17300.0,18000,14400.0,21600.0,96.1,Within Band,41.0,0,1.9,No Action Required,0.0
+2212,G3,Operations,Male,Non-Emirati,12,1,15400.0,18000,14400.0,21600.0,85.6,Within Band,15.0,1,5.2,No Action Required,0.0
+2213,G3,Finance,Male,Non-Emirati,11,3,16800.0,18000,14400.0,21600.0,93.3,Within Band,34.0,0,6.5,No Action Required,0.0
+2214,G2,Operations,Female,Emirati,1,2,12700.0,12000,9600.0,14400.0,105.8,Within Band,67.0,0,5.9,No Action Required,0.0
+2215,G4,Operations,Male,Non-Emirati,11,3,27800.0,25000,20000.0,30000.0,111.2,Within Band,77.0,0,10.0,No Action Required,0.0
+2216,G2,Operations,Female,Emirati,19,5,10300.0,12000,9600.0,14400.0,85.8,Within Band,14.000000000000002,1,13.4,"Priority Increase — Low Compa, High Performer",0.0
+2217,G2,Sales,Female,Non-Emirati,9,3,13600.0,12000,9600.0,14400.0,113.3,Within Band,83.0,0,4.6,No Action Required,0.0
+2218,G4,Legal,Male,Non-Emirati,2,4,30100.0,25000,20000.0,30000.0,120.4,Above Band,87.0,0,8.3,Grade Progression Review,0.0
+2219,G3,Operations,Female,Non-Emirati,12,4,19100.0,18000,14400.0,21600.0,106.1,Within Band,66.0,0,11.8,No Action Required,0.0
+2220,G4,Sales,Female,Emirati,4,3,32000.0,25000,20000.0,30000.0,128.0,Above Band,96.0,0,6.2,Salary Freeze — Above Band,0.0
+2221,G3,IT,Female,Emirati,4,3,15900.0,18000,14400.0,21600.0,88.3,Within Band,17.0,1,2.5,No Action Required,0.0
+2222,G3,Finance,Male,Non-Emirati,18,2,14600.0,18000,14400.0,21600.0,81.1,Within Band,7.000000000000001,1,7.1,No Action Required,0.0
+2223,G1,Legal,Male,Non-Emirati,15,3,5900.0,8000,6400.0,9600.0,73.8,Below Band,4.0,1,0.8,"Immediate Review — Below Band, Performing",500.0
+2224,G2,Finance,Male,Emirati,19,4,14700.0,12000,9600.0,14400.0,122.5,Above Band,95.0,0,14.1,Grade Progression Review,0.0
+2225,G2,Legal,Male,Non-Emirati,13,2,13200.0,12000,9600.0,14400.0,110.0,Within Band,79.0,0,1.1,No Action Required,0.0
+2226,G2,Finance,Male,Emirati,19,3,11900.0,12000,9600.0,14400.0,99.2,Within Band,42.0,0,6.6,No Action Required,0.0
+2227,G6,Legal,Female,Non-Emirati,17,3,52100.0,50000,40000.0,60000.0,104.2,Within Band,67.0,0,7.9,No Action Required,0.0
+2228,G2,Finance,Male,Non-Emirati,6,5,10000.0,12000,9600.0,14400.0,83.3,Within Band,10.0,1,14.8,"Priority Increase — Low Compa, High Performer",0.0
+2229,G5,Finance,Male,Non-Emirati,16,4,47800.0,35000,28000.0,42000.0,136.6,Above Band,100.0,0,2.5,Grade Progression Review,0.0
+2230,G3,Finance,Female,Emirati,24,4,18300.0,18000,14400.0,21600.0,101.7,Within Band,52.0,0,1.7,No Action Required,0.0
+2231,G4,Finance,Female,Non-Emirati,12,2,25400.0,25000,20000.0,30000.0,101.6,Within Band,54.0,0,0.1,No Action Required,0.0
+2232,G3,IT,Male,Emirati,19,4,20000.0,18000,14400.0,21600.0,111.1,Within Band,80.0,0,2.3,No Action Required,0.0
+2233,G3,Operations,Female,Non-Emirati,5,4,19300.0,18000,14400.0,21600.0,107.2,Within Band,70.0,0,3.1,No Action Required,0.0
+2234,G3,HR,Male,Emirati,17,4,18600.0,18000,14400.0,21600.0,103.3,Within Band,55.00000000000001,0,9.5,No Action Required,0.0
+2235,G1,Sales,Male,Non-Emirati,23,5,7100.0,8000,6400.0,9600.0,88.8,Within Band,30.0,1,3.3,"Priority Increase — Low Compa, High Performer",0.0
+2236,G4,HR,Female,Non-Emirati,1,3,26800.0,25000,20000.0,30000.0,107.2,Within Band,63.0,0,0.3,No Action Required,0.0
+2237,G2,HR,Male,Non-Emirati,24,5,15400.0,12000,9600.0,14400.0,128.3,Above Band,99.0,0,12.4,Grade Progression Review,0.0
+2238,G1,Legal,Male,Non-Emirati,23,5,9600.0,8000,6400.0,9600.0,120.0,Within Band,94.0,0,5.5,No Action Required,0.0
+2239,G3,Operations,Male,Non-Emirati,10,1,22300.0,18000,14400.0,21600.0,123.9,Above Band,93.0,0,5.3,Salary Freeze — Above Band,0.0
+2240,G1,Legal,Male,Non-Emirati,15,3,7400.0,8000,6400.0,9600.0,92.5,Within Band,42.0,0,4.5,No Action Required,0.0
+2241,G5,Operations,Male,Non-Emirati,23,5,29800.0,35000,28000.0,42000.0,85.1,Within Band,21.0,1,14.6,"Priority Increase — Low Compa, High Performer",0.0
+2242,G6,Operations,Male,Non-Emirati,21,2,49100.0,50000,40000.0,60000.0,98.2,Within Band,50.0,0,2.6,No Action Required,0.0
+2243,G5,Finance,Female,Non-Emirati,21,3,35300.0,35000,28000.0,42000.0,100.9,Within Band,55.00000000000001,0,13.5,No Action Required,0.0
+2244,G2,IT,Female,Non-Emirati,11,5,14000.0,12000,9600.0,14400.0,116.7,Within Band,87.0,0,11.7,No Action Required,0.0
+2245,G1,Finance,Male,Non-Emirati,13,3,6000.0,8000,6400.0,9600.0,75.0,Below Band,7.000000000000001,1,1.1,"Immediate Review — Below Band, Performing",400.0
+2246,G5,IT,Male,Non-Emirati,5,2,43000.0,35000,28000.0,42000.0,122.9,Above Band,85.0,0,14.8,Salary Freeze — Above Band,0.0
+2247,G2,Legal,Male,Emirati,1,3,11700.0,12000,9600.0,14400.0,97.5,Within Band,38.0,0,4.1,No Action Required,0.0
+2248,G6,IT,Male,Emirati,24,3,46800.0,50000,40000.0,60000.0,93.6,Within Band,43.0,0,1.5,No Action Required,0.0
+2249,G6,Legal,Female,Emirati,12,3,42400.0,50000,40000.0,60000.0,84.8,Within Band,13.0,1,12.4,No Action Required,0.0
+2250,G5,HR,Male,Emirati,11,2,26300.0,35000,28000.0,42000.0,75.1,Below Band,9.0,1,10.6,"Monitor — Below Band, Low Performance",1700.0
+2251,G2,HR,Male,Emirati,17,4,13500.0,12000,9600.0,14400.0,112.5,Within Band,82.0,0,9.3,No Action Required,0.0
+2252,G2,IT,Female,Non-Emirati,4,3,12100.0,12000,9600.0,14400.0,100.8,Within Band,51.0,0,2.3,No Action Required,0.0
+2253,G5,IT,Female,Emirati,15,4,28200.0,35000,28000.0,42000.0,80.6,Within Band,17.0,1,7.2,"Priority Increase — Low Compa, High Performer",0.0
+2254,G2,Legal,Female,Non-Emirati,9,4,9700.0,12000,9600.0,14400.0,80.8,Within Band,7.000000000000001,1,11.7,"Priority Increase — Low Compa, High Performer",0.0
+2255,G1,Finance,Male,Emirati,21,3,7600.0,8000,6400.0,9600.0,95.0,Within Band,47.0,0,4.6,No Action Required,0.0
+2256,G3,Legal,Male,Emirati,20,4,22500.0,18000,14400.0,21600.0,125.0,Above Band,95.0,0,4.7,Grade Progression Review,0.0
+2257,G5,Finance,Male,Non-Emirati,19,2,33600.0,35000,28000.0,42000.0,96.0,Within Band,42.0,0,0.0,No Action Required,0.0
+2258,G3,HR,Male,Non-Emirati,19,3,13900.0,18000,14400.0,21600.0,77.2,Below Band,4.0,1,2.6,"Immediate Review — Below Band, Performing",500.0
+2259,G3,Operations,Female,Emirati,12,2,17300.0,18000,14400.0,21600.0,96.1,Within Band,41.0,0,13.1,No Action Required,0.0
+2260,G1,IT,Female,Non-Emirati,5,5,7700.0,8000,6400.0,9600.0,96.2,Within Band,50.0,0,6.6,No Action Required,0.0
+2261,G3,Finance,Female,Non-Emirati,10,2,12600.0,18000,14400.0,21600.0,70.0,Below Band,2.0,1,14.8,"Monitor — Below Band, Low Performance",1800.0
+2262,G6,Legal,Female,Non-Emirati,17,3,49600.0,50000,40000.0,60000.0,99.2,Within Band,53.0,0,5.9,No Action Required,0.0
+2263,G1,HR,Male,Non-Emirati,5,4,7700.0,8000,6400.0,9600.0,96.2,Within Band,50.0,0,10.7,No Action Required,0.0
+2264,G3,Finance,Female,Non-Emirati,22,3,19900.0,18000,14400.0,21600.0,110.6,Within Band,76.0,0,4.2,No Action Required,0.0
+2265,G5,Legal,Male,Non-Emirati,16,2,44700.0,35000,28000.0,42000.0,127.7,Above Band,94.0,0,5.5,Salary Freeze — Above Band,0.0
+2266,G4,IT,Male,Non-Emirati,7,3,29200.0,25000,20000.0,30000.0,116.8,Within Band,85.0,0,2.9,No Action Required,0.0
+2267,G3,IT,Male,Non-Emirati,9,4,17300.0,18000,14400.0,21600.0,96.1,Within Band,41.0,0,5.2,No Action Required,0.0
+2268,G4,Sales,Male,Emirati,3,4,20900.0,25000,20000.0,30000.0,83.6,Within Band,14.000000000000002,1,8.2,"Priority Increase — Low Compa, High Performer",0.0
+2269,G2,Operations,Male,Non-Emirati,15,3,16600.0,12000,9600.0,14400.0,138.3,Above Band,100.0,0,14.9,Salary Freeze — Above Band,0.0
+2270,G2,Sales,Female,Emirati,16,3,12100.0,12000,9600.0,14400.0,100.8,Within Band,51.0,0,10.0,No Action Required,0.0
+2271,G4,HR,Male,Non-Emirati,18,3,25100.0,25000,20000.0,30000.0,100.4,Within Band,51.0,0,3.0,No Action Required,0.0
+2272,G4,Finance,Male,Non-Emirati,14,4,24900.0,25000,20000.0,30000.0,99.6,Within Band,49.0,0,0.7,No Action Required,0.0
+2273,G5,HR,Male,Non-Emirati,3,3,36000.0,35000,28000.0,42000.0,102.9,Within Band,60.0,0,1.9,No Action Required,0.0
+2274,G5,Legal,Female,Emirati,12,3,34200.0,35000,28000.0,42000.0,97.7,Within Band,47.0,0,8.4,No Action Required,0.0
+2275,G3,IT,Male,Emirati,9,3,16500.0,18000,14400.0,21600.0,91.7,Within Band,26.0,0,11.5,No Action Required,0.0
+2276,G3,Sales,Female,Non-Emirati,7,1,16500.0,18000,14400.0,21600.0,91.7,Within Band,26.0,0,14.1,No Action Required,0.0
+2277,G4,Sales,Male,Non-Emirati,9,2,24900.0,25000,20000.0,30000.0,99.6,Within Band,49.0,0,0.2,No Action Required,0.0
+2278,G3,Sales,Female,Non-Emirati,13,2,16500.0,18000,14400.0,21600.0,91.7,Within Band,26.0,0,7.8,No Action Required,0.0
+2279,G4,HR,Male,Emirati,18,3,22300.0,25000,20000.0,30000.0,89.2,Within Band,20.0,1,7.1,No Action Required,0.0
+2280,G4,IT,Female,Non-Emirati,5,4,25400.0,25000,20000.0,30000.0,101.6,Within Band,54.0,0,9.8,No Action Required,0.0
+2281,G5,Finance,Female,Emirati,13,3,33700.0,35000,28000.0,42000.0,96.3,Within Band,43.0,0,8.4,No Action Required,0.0
+2282,G2,Legal,Male,Non-Emirati,4,5,14700.0,12000,9600.0,14400.0,122.5,Above Band,95.0,0,10.3,Grade Progression Review,0.0
+2283,G2,Finance,Male,Emirati,2,1,8400.0,12000,9600.0,14400.0,70.0,Below Band,3.0,1,9.9,"Monitor — Below Band, Low Performance",1200.0
+2284,G1,HR,Male,Non-Emirati,16,4,9300.0,8000,6400.0,9600.0,116.3,Within Band,89.0,0,1.8,No Action Required,0.0
+2285,G3,Legal,Male,Emirati,9,4,21400.0,18000,14400.0,21600.0,118.9,Within Band,90.0,0,12.0,No Action Required,0.0
+2286,G1,Sales,Male,Non-Emirati,9,3,5600.0,8000,6400.0,9600.0,70.0,Below Band,1.0,1,1.8,"Immediate Review — Below Band, Performing",800.0
+2287,G3,Operations,Female,Non-Emirati,6,2,17100.0,18000,14400.0,21600.0,95.0,Within Band,39.0,0,10.5,No Action Required,0.0
+2288,G3,HR,Male,Emirati,11,4,17000.0,18000,14400.0,21600.0,94.4,Within Band,37.0,0,6.2,No Action Required,0.0
+2289,G2,HR,Male,Non-Emirati,22,3,9500.0,12000,9600.0,14400.0,79.2,Below Band,6.0,1,7.7,"Immediate Review — Below Band, Performing",100.0
+2290,G3,IT,Male,Emirati,24,5,15900.0,18000,14400.0,21600.0,88.3,Within Band,17.0,1,13.5,"Priority Increase — Low Compa, High Performer",0.0
+2291,G1,Finance,Male,Emirati,22,3,6700.0,8000,6400.0,9600.0,83.8,Within Band,19.0,1,13.3,No Action Required,0.0
+2292,G1,HR,Female,Non-Emirati,1,5,10100.0,8000,6400.0,9600.0,126.2,Above Band,97.0,0,12.3,Grade Progression Review,0.0
+2293,G4,HR,Male,Non-Emirati,4,3,28500.0,25000,20000.0,30000.0,114.0,Within Band,80.0,0,7.7,No Action Required,0.0
+2294,G2,Sales,Female,Non-Emirati,13,4,14300.0,12000,9600.0,14400.0,119.2,Within Band,90.0,0,11.0,No Action Required,0.0
+2295,G1,Sales,Female,Non-Emirati,23,4,8900.0,8000,6400.0,9600.0,111.2,Within Band,79.0,0,7.7,No Action Required,0.0
+2296,G3,Legal,Female,Non-Emirati,13,4,15000.0,18000,14400.0,21600.0,83.3,Within Band,10.0,1,13.0,"Priority Increase — Low Compa, High Performer",0.0
+2297,G4,Operations,Female,Emirati,13,3,23000.0,25000,20000.0,30000.0,92.0,Within Band,27.0,0,6.0,No Action Required,0.0
+2298,G2,IT,Male,Emirati,2,4,12900.0,12000,9600.0,14400.0,107.5,Within Band,70.0,0,14.6,No Action Required,0.0
+2299,G3,Operations,Female,Non-Emirati,9,3,14700.0,18000,14400.0,21600.0,81.7,Within Band,9.0,1,14.0,No Action Required,0.0
+2300,G1,Legal,Male,Non-Emirati,24,4,8900.0,8000,6400.0,9600.0,111.2,Within Band,79.0,0,11.1,No Action Required,0.0
+2301,G1,Sales,Male,Emirati,8,3,7700.0,8000,6400.0,9600.0,96.2,Within Band,50.0,0,4.2,No Action Required,0.0
+2302,G3,Finance,Female,Emirati,7,4,17000.0,18000,14400.0,21600.0,94.4,Within Band,37.0,0,2.0,No Action Required,0.0
+2303,G3,Sales,Female,Non-Emirati,4,2,19900.0,18000,14400.0,21600.0,110.6,Within Band,76.0,0,12.8,"Salary Freeze — High Compa, Low Performer",0.0
+2304,G3,IT,Female,Non-Emirati,18,4,19200.0,18000,14400.0,21600.0,106.7,Within Band,68.0,0,2.5,No Action Required,0.0
+2305,G4,Sales,Male,Emirati,3,4,23600.0,25000,20000.0,30000.0,94.4,Within Band,36.0,0,12.8,No Action Required,0.0
+2306,G6,IT,Male,Non-Emirati,6,4,58700.0,50000,40000.0,60000.0,117.4,Within Band,83.0,0,7.4,No Action Required,0.0
+2307,G3,IT,Female,Non-Emirati,12,3,15100.0,18000,14400.0,21600.0,83.9,Within Band,11.0,1,6.1,No Action Required,0.0
+2308,G2,IT,Male,Emirati,12,3,13100.0,12000,9600.0,14400.0,109.2,Within Band,76.0,0,13.5,No Action Required,0.0
+2309,G4,Legal,Female,Emirati,21,5,27200.0,25000,20000.0,30000.0,108.8,Within Band,69.0,0,9.1,No Action Required,0.0
+2310,G2,IT,Female,Non-Emirati,8,3,11400.0,12000,9600.0,14400.0,95.0,Within Band,32.0,0,8.6,No Action Required,0.0
+2311,G2,IT,Male,Non-Emirati,22,3,12600.0,12000,9600.0,14400.0,105.0,Within Band,64.0,0,8.4,No Action Required,0.0
+2312,G1,Finance,Male,Emirati,22,4,6500.0,8000,6400.0,9600.0,81.2,Within Band,17.0,1,5.6,"Priority Increase — Low Compa, High Performer",0.0
+2313,G1,Operations,Male,Non-Emirati,1,4,9100.0,8000,6400.0,9600.0,113.8,Within Band,82.0,0,11.8,No Action Required,0.0
+2314,G6,HR,Male,Non-Emirati,4,3,48600.0,50000,40000.0,60000.0,97.2,Within Band,47.0,0,3.8,No Action Required,0.0
+2315,G4,Operations,Female,Non-Emirati,21,4,23000.0,25000,20000.0,30000.0,92.0,Within Band,27.0,0,14.1,No Action Required,0.0
+2316,G3,IT,Male,Non-Emirati,11,4,20800.0,18000,14400.0,21600.0,115.6,Within Band,86.0,0,13.4,No Action Required,0.0
+2317,G2,Finance,Female,Non-Emirati,3,2,10700.0,12000,9600.0,14400.0,89.2,Within Band,19.0,1,5.1,No Action Required,0.0
+2318,G1,Sales,Male,Non-Emirati,13,5,6300.0,8000,6400.0,9600.0,78.8,Below Band,13.0,1,10.9,"Immediate Review — Below Band, Performing",100.0
+2319,G1,Finance,Female,Non-Emirati,17,1,6100.0,8000,6400.0,9600.0,76.2,Below Band,9.0,1,8.6,"Monitor — Below Band, Low Performance",300.0
+2320,G2,IT,Male,Non-Emirati,22,3,13100.0,12000,9600.0,14400.0,109.2,Within Band,76.0,0,5.1,No Action Required,0.0
+2321,G3,Finance,Male,Non-Emirati,22,1,14500.0,18000,14400.0,21600.0,80.6,Within Band,6.0,1,14.8,No Action Required,0.0
+2322,G4,Finance,Male,Non-Emirati,10,2,31600.0,25000,20000.0,30000.0,126.4,Above Band,94.0,0,0.4,Salary Freeze — Above Band,0.0
+2323,G3,IT,Female,Emirati,21,5,12600.0,18000,14400.0,21600.0,70.0,Below Band,2.0,1,3.8,"Immediate Review — Below Band, Performing",1800.0
+2324,G2,Legal,Female,Non-Emirati,12,3,15100.0,12000,9600.0,14400.0,125.8,Above Band,98.0,0,7.8,Salary Freeze — Above Band,0.0
+2325,G6,Finance,Female,Non-Emirati,15,3,51600.0,50000,40000.0,60000.0,103.2,Within Band,63.0,0,7.8,No Action Required,0.0
+2326,G4,HR,Male,Emirati,21,3,24600.0,25000,20000.0,30000.0,98.4,Within Band,45.0,0,8.8,No Action Required,0.0
+2327,G3,HR,Male,Non-Emirati,10,3,16500.0,18000,14400.0,21600.0,91.7,Within Band,26.0,0,11.3,No Action Required,0.0
+2328,G3,Finance,Male,Non-Emirati,14,3,19100.0,18000,14400.0,21600.0,106.1,Within Band,66.0,0,9.4,No Action Required,0.0
+2329,G2,Legal,Male,Emirati,13,3,11900.0,12000,9600.0,14400.0,99.2,Within Band,42.0,0,9.0,No Action Required,0.0
+2330,G2,Sales,Male,Non-Emirati,5,3,14000.0,12000,9600.0,14400.0,116.7,Within Band,87.0,0,0.8,No Action Required,0.0
+2331,G2,IT,Female,Emirati,6,4,12200.0,12000,9600.0,14400.0,101.7,Within Band,56.00000000000001,0,5.6,No Action Required,0.0
+2332,G4,HR,Female,Emirati,24,3,25600.0,25000,20000.0,30000.0,102.4,Within Band,56.00000000000001,0,3.5,No Action Required,0.0
+2333,G1,Sales,Female,Non-Emirati,2,3,7600.0,8000,6400.0,9600.0,95.0,Within Band,47.0,0,4.0,No Action Required,0.0
+2334,G1,Finance,Female,Emirati,22,3,7900.0,8000,6400.0,9600.0,98.8,Within Band,56.99999999999999,0,8.3,No Action Required,0.0
+2335,G1,Sales,Male,Non-Emirati,17,4,8400.0,8000,6400.0,9600.0,105.0,Within Band,71.0,0,3.0,No Action Required,0.0
+2336,G1,Operations,Male,Non-Emirati,4,3,5900.0,8000,6400.0,9600.0,73.8,Below Band,4.0,1,4.4,"Immediate Review — Below Band, Performing",500.0
+2337,G5,HR,Male,Non-Emirati,14,3,27900.0,35000,28000.0,42000.0,79.7,Below Band,13.0,1,3.6,"Immediate Review — Below Band, Performing",100.0
+2338,G4,Finance,Female,Non-Emirati,10,3,27800.0,25000,20000.0,30000.0,111.2,Within Band,77.0,0,14.2,No Action Required,0.0
+2339,G3,IT,Male,Emirati,3,5,18500.0,18000,14400.0,21600.0,102.8,Within Band,53.0,0,14.2,No Action Required,0.0
+2340,G1,Legal,Male,Non-Emirati,3,3,7800.0,8000,6400.0,9600.0,97.5,Within Band,53.0,0,9.1,No Action Required,0.0
+2341,G3,Finance,Male,Emirati,15,4,18000.0,18000,14400.0,21600.0,100.0,Within Band,47.0,0,13.9,No Action Required,0.0
+2342,G3,IT,Male,Non-Emirati,6,3,18900.0,18000,14400.0,21600.0,105.0,Within Band,61.0,0,11.8,No Action Required,0.0
+2343,G1,Legal,Female,Non-Emirati,17,3,7400.0,8000,6400.0,9600.0,92.5,Within Band,42.0,0,8.8,No Action Required,0.0
+2344,G2,Legal,Female,Emirati,12,4,10600.0,12000,9600.0,14400.0,88.3,Within Band,17.0,1,0.1,"Priority Increase — Low Compa, High Performer",0.0
+2345,G2,Finance,Male,Non-Emirati,22,3,12400.0,12000,9600.0,14400.0,103.3,Within Band,60.0,0,11.6,No Action Required,0.0
+2346,G3,Sales,Female,Non-Emirati,20,4,15400.0,18000,14400.0,21600.0,85.6,Within Band,15.0,1,10.5,"Priority Increase — Low Compa, High Performer",0.0
+2347,G3,Sales,Female,Non-Emirati,24,5,19100.0,18000,14400.0,21600.0,106.1,Within Band,66.0,0,9.2,No Action Required,0.0
+2348,G1,Legal,Male,Non-Emirati,11,4,6000.0,8000,6400.0,9600.0,75.0,Below Band,7.000000000000001,1,11.4,"Immediate Review — Below Band, Performing",400.0
+2349,G2,Sales,Male,Emirati,4,1,13900.0,12000,9600.0,14400.0,115.8,Within Band,85.0,0,7.7,"Salary Freeze — High Compa, Low Performer",0.0
+2350,G3,Operations,Male,Non-Emirati,6,4,19300.0,18000,14400.0,21600.0,107.2,Within Band,70.0,0,10.6,No Action Required,0.0
+2351,G3,Legal,Male,Emirati,1,3,18700.0,18000,14400.0,21600.0,103.9,Within Band,56.99999999999999,0,14.0,No Action Required,0.0
+2352,G5,Legal,Female,Non-Emirati,20,4,40200.0,35000,28000.0,42000.0,114.9,Within Band,77.0,0,5.6,No Action Required,0.0
+2353,G3,IT,Male,Non-Emirati,23,4,22500.0,18000,14400.0,21600.0,125.0,Above Band,95.0,0,10.6,Grade Progression Review,0.0
+2354,G1,Sales,Female,Non-Emirati,16,4,9200.0,8000,6400.0,9600.0,115.0,Within Band,84.0,0,7.1,No Action Required,0.0
+2355,G1,Legal,Male,Non-Emirati,15,3,5800.0,8000,6400.0,9600.0,72.5,Below Band,3.0,1,10.1,"Immediate Review — Below Band, Performing",600.0
+2356,G3,Operations,Male,Emirati,17,3,14500.0,18000,14400.0,21600.0,80.6,Within Band,6.0,1,11.4,No Action Required,0.0
+2357,G1,IT,Male,Non-Emirati,8,2,7300.0,8000,6400.0,9600.0,91.2,Within Band,36.0,0,0.7,No Action Required,0.0
+2358,G3,Finance,Male,Non-Emirati,12,4,18100.0,18000,14400.0,21600.0,100.6,Within Band,49.0,0,9.7,No Action Required,0.0
+2359,G5,Legal,Male,Emirati,22,3,37700.0,35000,28000.0,42000.0,107.7,Within Band,70.0,0,3.4,No Action Required,0.0
+2360,G3,Operations,Female,Non-Emirati,21,3,16000.0,18000,14400.0,21600.0,88.9,Within Band,19.0,1,10.1,No Action Required,0.0
+2361,G2,HR,Male,Emirati,10,4,12300.0,12000,9600.0,14400.0,102.5,Within Band,57.99999999999999,0,7.0,No Action Required,0.0
+2362,G3,Operations,Female,Non-Emirati,15,3,16000.0,18000,14400.0,21600.0,88.9,Within Band,19.0,1,11.6,No Action Required,0.0
+2363,G3,Operations,Male,Non-Emirati,9,3,16300.0,18000,14400.0,21600.0,90.6,Within Band,22.0,0,1.9,No Action Required,0.0
+2364,G3,IT,Male,Non-Emirati,2,3,14200.0,18000,14400.0,21600.0,78.9,Below Band,5.0,1,9.4,"Immediate Review — Below Band, Performing",200.0
+2365,G5,Finance,Male,Emirati,5,3,30200.0,35000,28000.0,42000.0,86.3,Within Band,25.0,1,4.2,No Action Required,0.0
+2366,G2,HR,Male,Non-Emirati,6,3,9600.0,12000,9600.0,14400.0,80.0,Within Band,6.0,1,12.8,No Action Required,0.0
+2367,G6,Sales,Male,Non-Emirati,7,1,42700.0,50000,40000.0,60000.0,85.4,Within Band,20.0,1,13.9,No Action Required,0.0
+2368,G5,Sales,Male,Non-Emirati,21,3,40500.0,35000,28000.0,42000.0,115.7,Within Band,79.0,0,14.9,No Action Required,0.0
+2369,G1,Operations,Male,Non-Emirati,1,3,6900.0,8000,6400.0,9600.0,86.2,Within Band,24.0,1,11.9,No Action Required,0.0
+2370,G1,IT,Male,Non-Emirati,23,4,11200.0,8000,6400.0,9600.0,140.0,Above Band,100.0,0,11.3,Grade Progression Review,0.0
+2371,G1,IT,Male,Non-Emirati,7,1,8600.0,8000,6400.0,9600.0,107.5,Within Band,74.0,0,3.2,No Action Required,0.0
+2372,G1,Sales,Male,Non-Emirati,20,3,8200.0,8000,6400.0,9600.0,102.5,Within Band,64.0,0,5.0,No Action Required,0.0
+2373,G1,HR,Female,Non-Emirati,12,5,7000.0,8000,6400.0,9600.0,87.5,Within Band,27.0,1,7.0,"Priority Increase — Low Compa, High Performer",0.0
+2374,G3,Finance,Female,Non-Emirati,16,2,19900.0,18000,14400.0,21600.0,110.6,Within Band,76.0,0,11.6,"Salary Freeze — High Compa, Low Performer",0.0
+2375,G1,HR,Male,Non-Emirati,16,3,7300.0,8000,6400.0,9600.0,91.2,Within Band,36.0,0,13.7,No Action Required,0.0
+2376,G2,Legal,Male,Non-Emirati,11,4,12200.0,12000,9600.0,14400.0,101.7,Within Band,56.00000000000001,0,2.8,No Action Required,0.0
+2377,G4,Legal,Female,Non-Emirati,21,5,34600.0,25000,20000.0,30000.0,138.4,Above Band,99.0,0,13.8,Grade Progression Review,0.0
+2378,G1,Finance,Female,Emirati,4,4,7900.0,8000,6400.0,9600.0,98.8,Within Band,56.99999999999999,0,10.4,No Action Required,0.0
+2379,G4,Sales,Male,Emirati,13,4,29300.0,25000,20000.0,30000.0,117.2,Within Band,86.0,0,9.2,No Action Required,0.0
+2380,G2,Finance,Female,Emirati,7,4,10700.0,12000,9600.0,14400.0,89.2,Within Band,19.0,1,3.0,"Priority Increase — Low Compa, High Performer",0.0
+2381,G1,IT,Male,Emirati,4,3,8000.0,8000,6400.0,9600.0,100.0,Within Band,59.0,0,0.8,No Action Required,0.0
+2382,G3,Legal,Male,Non-Emirati,15,4,22800.0,18000,14400.0,21600.0,126.7,Above Band,97.0,0,8.5,Grade Progression Review,0.0
+2383,G3,Operations,Female,Non-Emirati,19,1,16300.0,18000,14400.0,21600.0,90.6,Within Band,22.0,0,9.8,No Action Required,0.0
+2384,G5,Operations,Male,Non-Emirati,9,5,44500.0,35000,28000.0,42000.0,127.1,Above Band,91.0,0,3.2,Grade Progression Review,0.0
+2385,G4,Sales,Female,Non-Emirati,11,3,27700.0,25000,20000.0,30000.0,110.8,Within Band,75.0,0,8.3,No Action Required,0.0
+2386,G4,IT,Female,Non-Emirati,8,3,22900.0,25000,20000.0,30000.0,91.6,Within Band,25.0,0,12.8,No Action Required,0.0
+2387,G2,HR,Male,Non-Emirati,1,3,13100.0,12000,9600.0,14400.0,109.2,Within Band,76.0,0,12.5,No Action Required,0.0
+2388,G1,IT,Male,Non-Emirati,23,4,9200.0,8000,6400.0,9600.0,115.0,Within Band,84.0,0,13.9,No Action Required,0.0
+2389,G4,Operations,Male,Non-Emirati,24,2,27300.0,25000,20000.0,30000.0,109.2,Within Band,71.0,0,5.5,No Action Required,0.0
+2390,G4,Operations,Male,Non-Emirati,8,4,19100.0,25000,20000.0,30000.0,76.4,Below Band,3.0,1,4.8,"Immediate Review — Below Band, Performing",900.0
+2391,G6,Legal,Female,Emirati,13,4,44500.0,50000,40000.0,60000.0,89.0,Within Band,27.0,1,11.2,"Priority Increase — Low Compa, High Performer",0.0
+2392,G2,IT,Male,Non-Emirati,22,3,11600.0,12000,9600.0,14400.0,96.7,Within Band,36.0,0,6.5,No Action Required,0.0
+2393,G2,IT,Male,Non-Emirati,4,4,11900.0,12000,9600.0,14400.0,99.2,Within Band,42.0,0,1.3,No Action Required,0.0
+2394,G4,Operations,Female,Non-Emirati,8,4,27300.0,25000,20000.0,30000.0,109.2,Within Band,71.0,0,4.2,No Action Required,0.0
+2395,G2,HR,Male,Emirati,3,4,12300.0,12000,9600.0,14400.0,102.5,Within Band,57.99999999999999,0,6.3,No Action Required,0.0
+2396,G5,Sales,Female,Non-Emirati,9,3,28000.0,35000,28000.0,42000.0,80.0,Within Band,15.0,1,4.4,No Action Required,0.0
+2397,G5,Sales,Male,Non-Emirati,2,3,37000.0,35000,28000.0,42000.0,105.7,Within Band,66.0,0,5.0,No Action Required,0.0
+2398,G2,IT,Female,Emirati,2,3,13100.0,12000,9600.0,14400.0,109.2,Within Band,76.0,0,4.4,No Action Required,0.0
+2399,G4,Sales,Male,Non-Emirati,13,3,27100.0,25000,20000.0,30000.0,108.4,Within Band,67.0,0,0.6,No Action Required,0.0
+2400,G4,Operations,Male,Non-Emirati,15,5,29100.0,25000,20000.0,30000.0,116.4,Within Band,83.0,0,9.6,No Action Required,0.0
+2401,G1,Operations,Male,Non-Emirati,23,2,9000.0,8000,6400.0,9600.0,112.5,Within Band,80.0,0,9.0,"Salary Freeze — High Compa, Low Performer",0.0
+2402,G5,IT,Male,Emirati,12,4,37400.0,35000,28000.0,42000.0,106.9,Within Band,68.0,0,9.8,No Action Required,0.0
+2403,G3,IT,Female,Non-Emirati,4,3,17800.0,18000,14400.0,21600.0,98.9,Within Band,46.0,0,2.9,No Action Required,0.0
+2404,G4,Legal,Female,Non-Emirati,8,3,18800.0,25000,20000.0,30000.0,75.2,Below Band,1.0,1,4.4,"Immediate Review — Below Band, Performing",1200.0
+2405,G2,IT,Female,Non-Emirati,9,4,12800.0,12000,9600.0,14400.0,106.7,Within Band,68.0,0,9.3,No Action Required,0.0
+2406,G5,HR,Male,Emirati,23,4,36100.0,35000,28000.0,42000.0,103.1,Within Band,64.0,0,9.0,No Action Required,0.0
+2407,G2,Sales,Male,Non-Emirati,5,3,12500.0,12000,9600.0,14400.0,104.2,Within Band,62.0,0,7.6,No Action Required,0.0
+2408,G1,IT,Male,Non-Emirati,24,3,6500.0,8000,6400.0,9600.0,81.2,Within Band,17.0,1,5.3,No Action Required,0.0
+2409,G5,Finance,Male,Non-Emirati,20,3,29300.0,35000,28000.0,42000.0,83.7,Within Band,19.0,1,13.7,No Action Required,0.0
+2410,G1,Legal,Female,Non-Emirati,18,1,9300.0,8000,6400.0,9600.0,116.3,Within Band,89.0,0,5.1,"Salary Freeze — High Compa, Low Performer",0.0
+2411,G2,Finance,Male,Emirati,11,3,11900.0,12000,9600.0,14400.0,99.2,Within Band,42.0,0,6.8,No Action Required,0.0
+2412,G6,Operations,Male,Non-Emirati,15,3,55100.0,50000,40000.0,60000.0,110.2,Within Band,75.0,0,10.2,No Action Required,0.0
+2413,G6,Sales,Male,Emirati,22,3,50200.0,50000,40000.0,60000.0,100.4,Within Band,60.0,0,8.1,No Action Required,0.0
+2414,G3,IT,Female,Non-Emirati,9,4,18100.0,18000,14400.0,21600.0,100.6,Within Band,49.0,0,5.2,No Action Required,0.0
+2415,G3,Finance,Female,Emirati,17,3,20500.0,18000,14400.0,21600.0,113.9,Within Band,84.0,0,6.5,No Action Required,0.0
+2416,G2,Sales,Female,Non-Emirati,12,3,11100.0,12000,9600.0,14400.0,92.5,Within Band,25.0,0,11.9,No Action Required,0.0
+2417,G2,Operations,Male,Non-Emirati,7,3,12200.0,12000,9600.0,14400.0,101.7,Within Band,56.00000000000001,0,4.2,No Action Required,0.0
+2418,G2,HR,Male,Non-Emirati,10,4,11200.0,12000,9600.0,14400.0,93.3,Within Band,27.0,0,2.1,No Action Required,0.0
+2419,G3,Legal,Female,Emirati,10,4,16800.0,18000,14400.0,21600.0,93.3,Within Band,34.0,0,4.7,No Action Required,0.0
+2420,G4,Sales,Female,Non-Emirati,13,3,23800.0,25000,20000.0,30000.0,95.2,Within Band,38.0,0,12.7,No Action Required,0.0
+2421,G4,Sales,Male,Emirati,19,4,25800.0,25000,20000.0,30000.0,103.2,Within Band,57.99999999999999,0,1.3,No Action Required,0.0
+2422,G4,HR,Female,Non-Emirati,11,3,23200.0,25000,20000.0,30000.0,92.8,Within Band,32.0,0,14.9,No Action Required,0.0
+2423,G1,Sales,Female,Non-Emirati,13,3,9500.0,8000,6400.0,9600.0,118.8,Within Band,93.0,0,8.1,No Action Required,0.0
+2424,G3,Operations,Female,Non-Emirati,21,3,15600.0,18000,14400.0,21600.0,86.7,Within Band,16.0,1,14.8,No Action Required,0.0
+2425,G1,Operations,Female,Non-Emirati,8,3,7800.0,8000,6400.0,9600.0,97.5,Within Band,53.0,0,14.1,No Action Required,0.0
+2426,G3,HR,Male,Non-Emirati,8,4,16800.0,18000,14400.0,21600.0,93.3,Within Band,34.0,0,6.8,No Action Required,0.0
+2427,G2,Legal,Male,Emirati,4,4,14600.0,12000,9600.0,14400.0,121.7,Above Band,92.0,0,3.0,Grade Progression Review,0.0
+2428,G5,IT,Male,Non-Emirati,15,2,36000.0,35000,28000.0,42000.0,102.9,Within Band,60.0,0,2.5,No Action Required,0.0
+2429,G2,Finance,Female,Non-Emirati,11,4,13900.0,12000,9600.0,14400.0,115.8,Within Band,85.0,0,3.6,No Action Required,0.0
+2430,G1,IT,Female,Non-Emirati,11,3,6200.0,8000,6400.0,9600.0,77.5,Below Band,11.0,1,10.7,"Immediate Review — Below Band, Performing",200.0
+2431,G1,Sales,Female,Emirati,1,2,8300.0,8000,6400.0,9600.0,103.8,Within Band,67.0,0,4.1,No Action Required,0.0
+2432,G4,Finance,Male,Non-Emirati,17,3,28300.0,25000,20000.0,30000.0,113.2,Within Band,79.0,0,5.1,No Action Required,0.0
+2433,G3,HR,Female,Non-Emirati,15,3,18200.0,18000,14400.0,21600.0,101.1,Within Band,51.0,0,6.7,No Action Required,0.0
+2434,G1,HR,Female,Non-Emirati,20,2,9300.0,8000,6400.0,9600.0,116.3,Within Band,89.0,0,13.7,"Salary Freeze — High Compa, Low Performer",0.0
+2435,G1,Legal,Female,Non-Emirati,6,3,7400.0,8000,6400.0,9600.0,92.5,Within Band,42.0,0,2.8,No Action Required,0.0
+2436,G4,Finance,Female,Non-Emirati,24,3,30300.0,25000,20000.0,30000.0,121.2,Above Band,89.0,0,0.1,Salary Freeze — Above Band,0.0
+2437,G1,Operations,Female,Emirati,22,3,10800.0,8000,6400.0,9600.0,135.0,Above Band,99.0,0,0.9,Salary Freeze — Above Band,0.0
+2438,G4,Finance,Male,Emirati,15,4,23600.0,25000,20000.0,30000.0,94.4,Within Band,36.0,0,13.6,No Action Required,0.0
+2439,G4,Sales,Male,Non-Emirati,9,3,23300.0,25000,20000.0,30000.0,93.2,Within Band,34.0,0,9.7,No Action Required,0.0
+2440,G1,Operations,Male,Emirati,14,5,9700.0,8000,6400.0,9600.0,121.2,Above Band,95.0,0,4.1,Grade Progression Review,0.0
+2441,G1,HR,Male,Non-Emirati,18,3,9900.0,8000,6400.0,9600.0,123.8,Above Band,96.0,0,2.7,Salary Freeze — Above Band,0.0
+2442,G6,Finance,Female,Non-Emirati,17,4,46100.0,50000,40000.0,60000.0,92.2,Within Band,40.0,0,4.4,No Action Required,0.0
+2443,G2,IT,Female,Emirati,18,4,11200.0,12000,9600.0,14400.0,93.3,Within Band,27.0,0,1.7,No Action Required,0.0
+2444,G2,Legal,Male,Emirati,5,4,11500.0,12000,9600.0,14400.0,95.8,Within Band,34.0,0,14.1,No Action Required,0.0
+2445,G4,IT,Male,Emirati,20,3,20000.0,25000,20000.0,30000.0,80.0,Within Band,10.0,1,11.8,No Action Required,0.0
+2446,G5,Legal,Female,Non-Emirati,20,4,30200.0,35000,28000.0,42000.0,86.3,Within Band,25.0,1,6.9,"Priority Increase — Low Compa, High Performer",0.0
+2447,G6,Sales,Male,Non-Emirati,9,3,42500.0,50000,40000.0,60000.0,85.0,Within Band,17.0,1,13.0,No Action Required,0.0
+2448,G4,IT,Male,Non-Emirati,11,3,22100.0,25000,20000.0,30000.0,88.4,Within Band,18.0,1,3.7,No Action Required,0.0
+2449,G2,Finance,Male,Non-Emirati,24,3,11900.0,12000,9600.0,14400.0,99.2,Within Band,42.0,0,10.8,No Action Required,0.0
+2450,G1,Finance,Male,Emirati,22,3,8300.0,8000,6400.0,9600.0,103.8,Within Band,67.0,0,12.8,No Action Required,0.0
+2451,G4,IT,Male,Non-Emirati,1,1,30800.0,25000,20000.0,30000.0,123.2,Above Band,92.0,0,5.4,Salary Freeze — Above Band,0.0
+2452,G3,Finance,Male,Emirati,18,5,15300.0,18000,14400.0,21600.0,85.0,Within Band,13.0,1,11.4,"Priority Increase — Low Compa, High Performer",0.0
+2453,G2,Sales,Male,Non-Emirati,6,4,13800.0,12000,9600.0,14400.0,115.0,Within Band,83.0,0,4.4,No Action Required,0.0
+2454,G5,Operations,Female,Non-Emirati,2,3,33900.0,35000,28000.0,42000.0,96.9,Within Band,45.0,0,4.5,No Action Required,0.0
+2455,G1,Sales,Male,Non-Emirati,15,5,7900.0,8000,6400.0,9600.0,98.8,Within Band,56.99999999999999,0,1.6,No Action Required,0.0
+2456,G3,Legal,Female,Non-Emirati,21,3,19800.0,18000,14400.0,21600.0,110.0,Within Band,73.0,0,6.6,No Action Required,0.0
+2457,G1,Sales,Male,Non-Emirati,14,5,6700.0,8000,6400.0,9600.0,83.8,Within Band,19.0,1,10.9,"Priority Increase — Low Compa, High Performer",0.0
+2458,G3,Legal,Male,Non-Emirati,5,3,19000.0,18000,14400.0,21600.0,105.6,Within Band,63.0,0,14.1,No Action Required,0.0
+2459,G1,Finance,Female,Non-Emirati,6,2,8200.0,8000,6400.0,9600.0,102.5,Within Band,64.0,0,9.1,No Action Required,0.0
+2460,G1,Operations,Male,Emirati,6,4,8600.0,8000,6400.0,9600.0,107.5,Within Band,74.0,0,12.9,No Action Required,0.0
+2461,G1,Finance,Male,Non-Emirati,22,4,8300.0,8000,6400.0,9600.0,103.8,Within Band,67.0,0,12.3,No Action Required,0.0
+2462,G3,HR,Male,Emirati,18,4,24600.0,18000,14400.0,21600.0,136.7,Above Band,99.0,0,2.6,Grade Progression Review,0.0
+2463,G4,Finance,Female,Emirati,14,5,22600.0,25000,20000.0,30000.0,90.4,Within Band,23.0,0,7.3,No Action Required,0.0
+2464,G3,Legal,Male,Non-Emirati,10,4,16600.0,18000,14400.0,21600.0,92.2,Within Band,28.999999999999996,0,1.8,No Action Required,0.0
+2465,G6,Finance,Male,Non-Emirati,14,4,45300.0,50000,40000.0,60000.0,90.6,Within Band,30.0,0,10.2,No Action Required,0.0
+2466,G2,Finance,Female,Non-Emirati,13,4,11000.0,12000,9600.0,14400.0,91.7,Within Band,23.0,0,14.2,No Action Required,0.0
+2467,G2,Operations,Male,Non-Emirati,3,4,10900.0,12000,9600.0,14400.0,90.8,Within Band,21.0,0,2.1,No Action Required,0.0
+2468,G5,Finance,Female,Non-Emirati,6,3,41200.0,35000,28000.0,42000.0,117.7,Within Band,81.0,0,11.0,No Action Required,0.0
+2469,G2,Operations,Female,Emirati,8,4,14600.0,12000,9600.0,14400.0,121.7,Above Band,92.0,0,9.5,Grade Progression Review,0.0
+2470,G6,IT,Female,Emirati,12,3,45700.0,50000,40000.0,60000.0,91.4,Within Band,37.0,0,8.8,No Action Required,0.0
+2471,G1,HR,Male,Non-Emirati,13,4,7000.0,8000,6400.0,9600.0,87.5,Within Band,27.0,1,5.9,"Priority Increase — Low Compa, High Performer",0.0
+2472,G6,Operations,Female,Non-Emirati,11,4,53500.0,50000,40000.0,60000.0,107.0,Within Band,70.0,0,5.3,No Action Required,0.0
+2473,G1,Legal,Male,Non-Emirati,12,4,7300.0,8000,6400.0,9600.0,91.2,Within Band,36.0,0,0.7,No Action Required,0.0
+2474,G5,IT,Male,Non-Emirati,1,4,38300.0,35000,28000.0,42000.0,109.4,Within Band,74.0,0,3.3,No Action Required,0.0
+2475,G3,Operations,Male,Emirati,17,4,18500.0,18000,14400.0,21600.0,102.8,Within Band,53.0,0,0.2,No Action Required,0.0
+2476,G6,Operations,Female,Non-Emirati,16,3,38600.0,50000,40000.0,60000.0,77.2,Below Band,10.0,1,8.7,"Immediate Review — Below Band, Performing",1400.0
+2477,G1,HR,Male,Non-Emirati,11,4,9900.0,8000,6400.0,9600.0,123.8,Above Band,96.0,0,1.6,Grade Progression Review,0.0
+2478,G3,Legal,Male,Emirati,13,3,22800.0,18000,14400.0,21600.0,126.7,Above Band,97.0,0,13.1,Salary Freeze — Above Band,0.0
+2479,G6,Sales,Male,Non-Emirati,18,2,45400.0,50000,40000.0,60000.0,90.8,Within Band,33.0,0,7.8,No Action Required,0.0
+2480,G3,Sales,Female,Non-Emirati,11,3,17000.0,18000,14400.0,21600.0,94.4,Within Band,37.0,0,10.5,No Action Required,0.0
+2481,G3,Operations,Female,Emirati,12,3,18800.0,18000,14400.0,21600.0,104.4,Within Band,57.99999999999999,0,6.2,No Action Required,0.0
+2482,G3,Finance,Female,Non-Emirati,6,3,18900.0,18000,14400.0,21600.0,105.0,Within Band,61.0,0,8.4,No Action Required,0.0
+2483,G3,Legal,Male,Non-Emirati,9,4,19800.0,18000,14400.0,21600.0,110.0,Within Band,73.0,0,14.1,No Action Required,0.0
+2484,G3,IT,Male,Emirati,16,3,23400.0,18000,14400.0,21600.0,130.0,Above Band,98.0,0,1.2,Salary Freeze — Above Band,0.0
+2485,G3,Finance,Female,Non-Emirati,4,3,17500.0,18000,14400.0,21600.0,97.2,Within Band,44.0,0,3.8,No Action Required,0.0
+2486,G5,Finance,Male,Emirati,3,1,30800.0,35000,28000.0,42000.0,88.0,Within Band,36.0,1,11.7,No Action Required,0.0
+2487,G1,Legal,Male,Non-Emirati,16,3,6300.0,8000,6400.0,9600.0,78.8,Below Band,13.0,1,1.5,"Immediate Review — Below Band, Performing",100.0
+2488,G2,Operations,Female,Non-Emirati,24,4,10700.0,12000,9600.0,14400.0,89.2,Within Band,19.0,1,1.1,"Priority Increase — Low Compa, High Performer",0.0
+2489,G6,Operations,Female,Non-Emirati,12,1,49800.0,50000,40000.0,60000.0,99.6,Within Band,56.99999999999999,0,5.4,No Action Required,0.0
+2490,G5,Operations,Female,Non-Emirati,11,3,44400.0,35000,28000.0,42000.0,126.9,Above Band,89.0,0,1.4,Salary Freeze — Above Band,0.0
+2491,G3,Operations,Female,Non-Emirati,5,3,16600.0,18000,14400.0,21600.0,92.2,Within Band,28.999999999999996,0,8.8,No Action Required,0.0
+2492,G3,Sales,Female,Non-Emirati,18,1,18600.0,18000,14400.0,21600.0,103.3,Within Band,55.00000000000001,0,3.4,No Action Required,0.0
+2493,G2,Operations,Male,Non-Emirati,19,3,12000.0,12000,9600.0,14400.0,100.0,Within Band,47.0,0,13.4,No Action Required,0.0
+2494,G1,Sales,Male,Emirati,23,2,9400.0,8000,6400.0,9600.0,117.5,Within Band,92.0,0,11.8,"Salary Freeze — High Compa, Low Performer",0.0
+2495,G3,Sales,Female,Non-Emirati,23,4,24800.0,18000,14400.0,21600.0,137.8,Above Band,100.0,0,10.5,Grade Progression Review,0.0
+2496,G2,Operations,Male,Non-Emirati,6,4,11000.0,12000,9600.0,14400.0,91.7,Within Band,23.0,0,9.3,No Action Required,0.0
+2497,G3,HR,Female,Non-Emirati,22,3,16700.0,18000,14400.0,21600.0,92.8,Within Band,31.0,0,13.0,No Action Required,0.0
+2498,G1,IT,Male,Emirati,18,5,9300.0,8000,6400.0,9600.0,116.3,Within Band,89.0,0,3.3,No Action Required,0.0
+2499,G6,Finance,Male,Non-Emirati,6,3,55100.0,50000,40000.0,60000.0,110.2,Within Band,75.0,0,13.1,No Action Required,0.0
+2500,G6,Sales,Female,Non-Emirati,4,3,63900.0,50000,40000.0,60000.0,127.8,Above Band,93.0,0,11.8,Salary Freeze — Above Band,0.0
